@@ -8,24 +8,6 @@ This is a program that I created for my company in order to check for corrupt me
  - **Audio:** MP3, OGG, FLAC
  - **Video:** MP4, AVI, MOV, WMV, MTS, MPG
 
-## Installation
-A minimum of Python 3.7 is recommended for maximum compatibility.
-
-Use the package manager  [pip](https://pip.pypa.io/en/stable/)  to install this program's dependencies:
-
-```bash
-pip install Pandas
-pip install PySide2
-pip install Mutagen
-pip install Moviepy
-pip install PyPDF2
-pip install Docx2txt
-pip install Func_Timeout
-pip install XLRD
-pip install soundfile
-pip install Python-PPTX
-```
-
 ## Usage
 
 **In File Path:**
